@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6075
     wikipedia: http://en.wikipedia.org/wiki/Guillaume_Apollinaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26456#L-oeuvre-des-conteurs-allemands--m-moires-d-une-chanteuse-allemandetraduit-pour-la-premi-re-f_
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2008-08-28'
 gutenberg_type: Text
